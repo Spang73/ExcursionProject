@@ -1,0 +1,1 @@
+Excursion project for Codecademy, mock website for a travel app.
