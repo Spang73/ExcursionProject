@@ -1,8 +1,16 @@
 body {
-    background: black
+    background: black;
 }
 h1, 
 h2,
 p {
-color:white
+    text-align: center;
+    color:white;
+}
+span{
+    color:gray;
+}
+video{
+    display:block;
+    margin:0 auto;
 }
